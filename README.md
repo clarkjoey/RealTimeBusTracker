@@ -8,7 +8,7 @@ This project uses Mapbox, an open-source map software, to display a map of bosto
 No installation steps at this time.
 
 ## Usage: 
-You can see the bus stops from MIT to Harvard
+You can see the bus stops from MIT to Harvard https://clarkjoey.github.io/RealTimeBusTracker/index.html
 
 ## Support: 
 Email: joeclarkedu@yahoo.com for support
